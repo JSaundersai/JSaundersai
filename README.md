@@ -21,11 +21,15 @@ Focused on innovative AI solutions across various domains
 
 
 🛠️ Tech Stack
-Python
-TensorFlow
-PyTorch
-Hugging Face
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+(TensorFlow,
+PyTorch,
+Hugging Face, ChromaDB, Cohere, Langchain, OpenAI, Llama)
+
 SQL
+
 Docker
 
 
@@ -46,7 +50,8 @@ LLM with real time Web search Functionality,
 📊 GitHub Stats
 Jared's GitHub stats:
 
-(https://github-readme-stats.vercel.app/api?username=JSaundersai&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 🤝 Let's Connect
 
