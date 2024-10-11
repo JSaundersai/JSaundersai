@@ -50,7 +50,7 @@ LLM with real time Web search Functionality,
 📊 GitHub Stats
 Jared's GitHub stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![JSaundersai](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 🤝 Let's Connect
