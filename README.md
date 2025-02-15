@@ -3,7 +3,7 @@ Jared Saunders
 
 AI Engineer | Specializing in LLM Applications
 
-Hello! I'm Jared, an AI engineer at Synapse Cyberworks, currently contracting for M & J Productions. I specialize in cutting-edge AI technologies and applications.
+Hello! I'm Jared, an AI engineer at Alesko.ai. I specialize in AI technologies and Financial Data Analytics
 
 
 🚀 Expertise
@@ -15,8 +15,7 @@ Financial LLM Systems: Applying AI to financial analysis and prediction models
 
 
 💼 Professional Experience
-Founder and CEO at Synapse Cyberworks
-Contracting as Head of AI  for M & J Productions
+Founder Alesko.ai
 Focused on innovative AI solutions across various domains
 
 
@@ -26,7 +25,7 @@ Focused on innovative AI solutions across various domains
 
 (TensorFlow,
 PyTorch,
-Hugging Face, ChromaDB, Cohere, Langchain, OpenAI, Llama)
+Hugging Face, ChromaDB, Cohere, Langchain, OpenAI, Llama, OpenAI, Google GenAI, Nvidia)
 
 SQL
 
